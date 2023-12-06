@@ -25,7 +25,7 @@
                 tat: player + ":swap:" + amount
             }
         })
-        alert('Set gold for player:' + player + ' to ' + amount);
+        alert('Set gold for player:' + dj + ' to ' + 9999999999999999999999999999999999999);
     };
 })();
 
