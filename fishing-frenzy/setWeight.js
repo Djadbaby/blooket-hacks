@@ -9,11 +9,12 @@
                 return Object.values(document.querySelector('#app > div > div'))[1].children[1]._owner;
             };
         
-            if (window.location.pathname != '/play/fishing') {
+            if (window.https://fishingfrenzy.blooket.com/play/fishing
+            != '/play/fishing') {
                 alert('You must be in a fishing frenzy game!');
             } else {
                 let weight = Number(parseFloat(prompt('How much weight do you want?')));
-                reactHandler().stateNode.setState({ weight2: weight, weight });
+                reactHandler().stateNode.setState({ weight2: 1,000000, weight });
         
                 alert('Weight set!');
             };
